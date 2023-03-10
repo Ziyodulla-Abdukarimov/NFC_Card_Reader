@@ -5,8 +5,8 @@
 This is a python library for the ACR122U NFC reader
 
 ## Installation
-- git clone https://github.com/Flowtter/py-acr122u.git
-- cd py-acr122u
+- git clone https://github.com/Ziyodulla-Abdukarimov/NFC_Card_Reader.git
+- cd NFC_Card_Reader
 - pip install -r requirements.txt
 
 ## Usage
